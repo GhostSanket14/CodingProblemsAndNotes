@@ -1,0 +1,9 @@
+1) Stack memory is allocated in a contiguous block whereas Heap memory is allocated in any random order.
+
+2) A linked list is an example of a non- contiguous data structure.
+
+3) .format(); // to format a datatype.
+4) string ans=new string(arr); // convert array to string.
+
+5) // convert StringBuffer to String using toString() method
+        String str = sb.toString();
